@@ -273,7 +273,7 @@ DATABASE_URL=postgresql://your_username@localhost:5432/meetings_db
 ### File Structure
 
 ```
-ragul/
+mugesh/
 ├── main.py              # FastAPI application
 ├── agents.py            # Agent definitions
 ├── tools.py             # Tool implementations
